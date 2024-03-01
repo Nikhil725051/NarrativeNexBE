@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "irdotmyo",
+    "password": "ZUHC_1LFpdP3xLiHbEtrbOzicw0Dpn-W",
+    "database": "irdotmyo",
+    "host": "kiouni.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "irdotmyo",
+    "password": "ZUHC_1LFpdP3xLiHbEtrbOzicw0Dpn-W",
+    "database": "irdotmyo",
+    "host": "kiouni.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "irdotmyo",
+    "password": "ZUHC_1LFpdP3xLiHbEtrbOzicw0Dpn-W",
+    "database": "irdotmyo",
+    "host": "kiouni.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
